@@ -5,11 +5,6 @@ This repository hosts a high-level retail analytics framework built on **SQL**. 
 
 ---
 
-## **Technical Walkthrough**
-**[Watch the Analytical Deep-Dive]** — [https://drive.google.com/file/d/1QisQX4ZImKkhRPju4UHOliqKd5vtLTvM/view?usp=sharing](https://drive.google.com/file/d/1QisQX4ZImKkhRPju4UHOliqKd5vtLTvM/view?usp=sharing)
-
----
-
 ## **Pillar I: Data Architecture & Infrastructure**
 
 The first layer of the project focuses on building a reliable **MySQL** environment to handle multi-dimensional retail data.
